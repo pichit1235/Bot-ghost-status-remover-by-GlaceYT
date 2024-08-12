@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["อย่าลืมรับยศกันด้วยนะคร้าบ","มาเป็นส่วนหนึ่งกับพวกเราเถอะ","WHO ขอฝากตัวด้วยนะครับ"];
 
 
 let currentIndex = 0;
